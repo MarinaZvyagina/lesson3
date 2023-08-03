@@ -3,3 +3,5 @@ Name Solo
 Age 73
 
 Favourite color Red
+
+New changes
